@@ -1,0 +1,119 @@
+.body{
+width: 1950px;
+height: 1095px;
+left: -20px;
+top: 0px;
+
+background: #000000;
+opacity: 0.3;
+}
+.contact_wrapper{
+  margin: 0 auto;
+width: 389px;
+height: 816px;
+left: 766px;
+top: 181px;
+background: #171929;
+box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.7);
+border-radius: 27px;
+}
+.red{
+width: 7px;
+height: 18px;
+left: 873px;
+top: 747px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 120%;
+color: #3F4363;
+}
+.input{
+box-sizing: border-box;
+width: 299px;
+height: 0px;
+left: 811px;
+top: 356px;
+
+border: 1px solid #3F4363;
+}
+.button{
+margin: 0 auto;
+width: 121px;
+height: 44px;
+left: 900px;
+top: 912px;
+
+background: #2C2F47;
+border-radius: 28px;
+}
+.h1{
+  margin: 0 auto;
+width: 129px;
+height: 66px;
+left: 894px;
+top: 90px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 55px;
+line-height: 120%;
+
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 19px rgba(0, 0, 0, 0.97);
+}
+.for{
+margin: 0 auto;
+padding: 41px;
+width: 238px;
+height: 44px;
+left: 841px;
+top: 222px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 120%;
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.form_inputs{
+padding: 45px;
+width: 40px;
+height: 18px;
+left: 811px;
+top: 305px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 120%;
+color: #797EA3;
+}
+.container{
+  margin: 0 auto;
+width: 121px;
+height: 44px;
+left: 900px;
+top: 912px;
+
+background: #2C2F47;
+border-radius: 28px;
+}
+.checkbox{
+  height: 31px;
+left: 811px;
+top: 851px;
+
+background: #2C2F47;
+border-radius: 8px;
+}
